@@ -1,0 +1,22 @@
+{
+  "name": "square-huzaifasiddiqui",
+  "version": "1.0.0",
+  "description": "it willtake a number and give square of it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhuzaifasiddiqui/square.git"
+  },
+  "keywords": [
+    "square"
+  ],
+  "author": "mhuzaifsiddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhuzaifasiddiqui/square/issues"
+  },
+  "homepage": "https://github.com/mhuzaifasiddiqui/square#readme"
+}
