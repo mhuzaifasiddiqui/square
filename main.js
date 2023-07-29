@@ -1,5 +1,6 @@
-const square = (n1) =>{
-return n1*n1
+const square = (number) =>{
+return number*number
 }
+
 
 module.exports={square}
